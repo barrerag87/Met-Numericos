@@ -1,0 +1,2 @@
+Acá se encuentra material para la asignatura de métodos numéricos. Láminas de clase, guías de ejercicios y algoritmos implementados en el lenguaje R y eventualmente scilab.
+Este material es de libre acceso y no está sujeto a restricciones de derechos de autor. Sin embargo, se solicita citar adecuadamente la fuente al utilizarlo, reproducirlo o difundirlo, en concordancia con las buenas prácticas académicas y de divulgación.
